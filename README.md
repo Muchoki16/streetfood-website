@@ -1,4 +1,4 @@
-# View point Restaurantweb
+# streetfood Restaurantweb
 
 Welcome to the Restaurant Website project! This project is a landing page for a restaurant showcasing their menu, hot deals, and contact information.
 
@@ -28,7 +28,7 @@ No external dependencies are required for this project.
 
 ## Installation
 
-1. Clone this repository to your local machine using:https://github.com/Davidle30/Restaurantweb.git
+1. Clone this repository to your local machine using:/https://github.com/Muchoki16/streetfood-website.git
 
 
 2. Navigate to the project directory:
