@@ -43,8 +43,8 @@ No external dependencies are required for this project.
 
 If you have any questions or suggestions about this project, feel free to reach out to the project owner:
 
-- Project Owner: david leteipa
-- Email:sailadaudi@gmail.com
+- Project Owner: Patrick Muchoki
+- Email:muchokipatrick827@gmail.com
 
 ## License
 
